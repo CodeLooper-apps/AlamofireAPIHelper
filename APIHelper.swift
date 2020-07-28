@@ -1,10 +1,3 @@
-//
-//  APIHelper.swift
-//  BrilionCleaningApp
-//
-//  Created by Kaushal Parmar on 06/09/19.
-//  Copyright © 2019 Apple. All rights reserved.
-//
 
 import UIKit
 import Alamofire
